@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
+
+I am a Full Stack Developer with a broad skill set including React Next all the way back to REST Api/GraphQL and MongoDB. I also have experience with technologies such as SQL, Python, GitHub, Deployment including CI/CD, Firebase, AWS, and much more. 
 
 <!--
 **JamesFincher/JamesFincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
