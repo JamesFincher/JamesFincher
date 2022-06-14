@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Nothing currently](http://test.com/)
 
-- 👨‍💻 All of my projects are available on [Github][http://test.com/](https://github.com/JamesFincher/)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/JamesFincher/)
 
 - 📝 I regularly write articles on [http://test.com/](http://test.com/)
 
