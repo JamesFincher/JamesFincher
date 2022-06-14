@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesfincher&label=Profile%20views&color=0e75b6&style=flat" alt="jamesfincher" /> </p>
 
-- 🔭 I’m currently working on [Test](https://test.com/)
+- 🔭 I’m currently working on [APOD](https://nasa.jamesfincher.dev/)
 
-- 🌱 I’m currently learning **Redwood JS**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 👯 I’m looking to collaborate on [Test](http://test.com/)
+- 👯 I’m looking to collaborate on [Anything really](http://test.com/)
 
-- 🤝 I’m looking for help with [Test](http://test.com/)
+- 🤝 I’m looking for help with [Nothing currently](http://test.com/)
 
-- 👨‍💻 All of my projects are available at [http://test.com/](http://test.com/)
+- 👨‍💻 All of my projects are available on [Github]([http://test.com/](https://github.com/JamesFincher/)
 
 - 📝 I regularly write articles on [http://test.com/](http://test.com/)
 
