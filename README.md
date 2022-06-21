@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesfincher&label=Profile%20views&color=0e75b6&style=flat" alt="jamesfincher" /> </p>
 
-- 🔭 I’m currently working on [APOD](https://nasa.jamesfincher.dev/)
+- 🔭 I’m currently working on [AI-ART REBUILD](https://github.com/JamesFincher/ai-bulletin)
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **Redwood JS**
 
-- 👯 I’m looking to collaborate on [Anything really](http://test.com/)
+- 👯 I’m looking to collaborate on [Express Templating](http://test.com/)
 
 - 🤝 I’m looking for help with [Nothing currently](http://test.com/)
 
