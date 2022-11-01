@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AI-ART REBUILD](https://github.com/JamesFincher/ai-bulletin)
 
-- 🌱 I’m currently learning **Redwood JS**
+- 🌱 I’m currently learning **Prisma, PostgreSQl, NextJS**
 
 - 👯 I’m looking to collaborate on [Express Templating](http://test.com/)
 
